@@ -1,0 +1,1 @@
+esptool erase_flash && esptool write_flash -z 0x1000 ESP32_GENERIC-UNICORE-20240222-v1.22.2.bin
